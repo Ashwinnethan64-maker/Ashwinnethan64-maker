@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ash</h1>
 <h3 align="center">A passionate Web Developer from India | Building modern web apps and open-source projects</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinnethan64-maker&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinnethan64-maker" /> </p>
-# 💫 About Me:
+ 💫 About Me:
 
 - 🔭 I’m currently working on [DoseWise – AI powered medicine reminder and health tracking web app](https://dose-wise-sable.vercel.app/)
 
