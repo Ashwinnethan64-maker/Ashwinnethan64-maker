@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ash</h1>
 <h3 align="center">A passionate Web Developer from India | Building modern web apps and open-source projects</h3>
+
+<img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/def26267-7054-46aa-afb0-0bbba54ec48c" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinnethan64-maker&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinnethan64-maker" /> </p>
  💫 About Me:
 
